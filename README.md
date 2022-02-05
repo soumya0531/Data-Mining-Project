@@ -1,2 +1,4 @@
 # Data-Mining-Project
-Research Paper Implementation
+Research Paper Implementation 
+Authors:Soumya Sinha
+        Swastika Sarangi
